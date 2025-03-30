@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Software Developer",
+    "role": "C++ Embedded Development",
+    "organization": "Zenseact",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Develop and maintain C++ software connecting camera systems with other in-vehicle applications",
+      "Ensure stable data flow and integration across safety-critical modules"
+    ],
+    "imageSrc": "history/zenseact.png"
+  },
+  {
+    "title": "Software Developer",
+    "role": "Full-Stack: React + TypeScript & C++",
+    "organization": "Epiroc",
+    "startDate": "Jun, 2023",
+    "endDate": "Nov, 2024",
+    "experiences": [
+      "Developed frontend features and new UI menus using React + TypeScript",
+      "Integrated frontend with C++ backend systems used in autonomous mining applications"
+    ],
+    "imageSrc": "history/epiroc.png"
+  },
+  {
+    "title": "Software Developer",
+    "organization": "Cariad",
+    "startDate": "Oct, 2022",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Developed backend services for smart car platforms using Java and Spring Boot",
+      "Improved system scalability and reliability in connected vehicle infrastructure"
+    ],
+    "imageSrc": "history/cariad.png"
+  },
+  {
+    "title": "Part-time Software Developer",
+    "organization": "Siemens",
+    "startDate": "Sept, 2022",
+    "endDate": "Mar, 2022",
+    "experiences": [
+      "Developed and deployed microservices for the MindSphere industrial IoT platform",
+      "Focused on real-time data processing and clean service architecture"
+    ],
+    "imageSrc": "history/siemens.png"
+  }
+]

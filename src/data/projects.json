@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HoorDay",
+    "imageSrc": "projects/project1.png",
+    "description": "Web app to discover upcoming holidays based on country.",
+    "skills": ["React"],
+    "demo": "https://hoorday.vercel.app",
+    "source": "https://github.com/selenozcan/HOORDAY"
+  },
+  {
+    "title": "TryThis",
+    "imageSrc": "projects/project2.png",
+    "description": "Web app that finds new challenges and helps you beat them everyday.",
+    "skills": ["React"],
+    "demo": "https://trythis-azure.vercel.app/",
+    "source": "https://github.com/selenozcan/trythis"
+  },
+  {
+    "title": "VanLife",
+    "imageSrc": "projects/project3.png",
+    "description": "Web app that allows users to browse, rent, and manage camper vans.",
+    "skills": ["React"],
+    "demo": "https://vanlife-ashy.vercel.app",
+    "source": "https://github.com/selenozcan/vanlife"
+  },
+  {
+    "title": "Puritto",
+    "imageSrc": "projects/project4.png",
+    "description": "Mobile app to save and share calendars - WIP.",
+    "skills": ["React Native"],
+    "demo": "",
+    "source": "https://github.com/selenozcan/puritto"
+  },
+  {
+    "title": "Personal Webpage (old)",
+    "imageSrc": "projects/project5.png",
+    "description": "Old personal web page.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://selenozcan.github.io/",
+    "source": "https://github.com/selenozcan/selenozcan.github.io"
+  }
+]

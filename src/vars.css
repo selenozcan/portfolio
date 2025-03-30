@@ -1,0 +1,21 @@
+:root {
+  /* Colors */
+  --color-text: #3b3b3b;
+  --color-primary: #ff8ba7;
+  --color-secondary: #ffd6ec;
+  --color-accent: #a0d8b3;
+  --color-bg: #fff0f5;
+  --color-dark: #a2678a;
+  --color-focus: #ffafc3;
+
+  /* Fonts */
+  --font-robot: "Roboto, Arial, Helvetica, sans-serif";
+
+  /* Font Sizes */
+  --font-xxl: 72px;
+  --font-xl: 42px; 
+  --font-lg: 32px; 
+  --font-md: 24px; 
+  --font-sm: 20px; 
+  --font-xs: 17px; 
+}
