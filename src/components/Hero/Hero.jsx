@@ -13,7 +13,11 @@ const Hero = () => {
           embedded systems and backend solutions, now focused on frontend
           development with React and React Native.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.downloadBtn}>
+        <a
+          href="https://drive.google.com/file/d/1u6zjGUWeRuzgsB_JZipqDWiVRQLk-sPZ/view?usp=sharing"
+          target="_blank"
+          className={styles.downloadBtn}
+        >
           Download CV
         </a>
       </div>
