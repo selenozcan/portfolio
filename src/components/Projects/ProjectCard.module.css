@@ -85,8 +85,8 @@
 @media screen and (max-width: 830px) {
   .container {
     max-width: 100%;
-    padding: 16px;
-    border-radius: 6px;
+    padding: 18px;
+    border-radius: 8px;
   }
 
   .title {
@@ -98,17 +98,19 @@
   }
 
   .skill {
-    font-size: 14px;
-    padding: 3px 10px;
+    font-size: var(--font-xs);
+    padding: 6px 14px;
+    border-radius: 12px;
   }
 
   .link {
-    font-size: 16px;
-    padding: 6px 12px;
+    font-size: var(--font-sm);
+    padding: 8px 18px;
+    border-radius: 7px;
   }
 
   .image {
-    margin-bottom: 18px;
+    margin-bottom: 20px;
     width: 100%;
     height: auto;
     object-fit: cover;
