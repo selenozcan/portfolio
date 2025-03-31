@@ -26,3 +26,17 @@
   padding: 20px;
   border-radius: 16px;
 }
+
+@media screen and (max-width: 830px) {
+  .projects {
+    gap: 16px;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
